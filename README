@@ -1,0 +1,9 @@
+Disk Forensics:
+
+- debugfs
+- foremost
+- photorec
+- testdisk
+- Fix Magic Number ('signature'): https://wiki.osdev.org/Ext2#Superblock
+
+
