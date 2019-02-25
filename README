@@ -22,3 +22,10 @@
     snscanf -> _snscanf_s (MSDN)
     strlen -> strnlen_s (MSDN)
 
+### Pwn
+# Linux Enumeration: https://github.com/rebootuser/LinEnum
+## See what you can run as root
+# Linux vulnerable binaries and commands: GTFObins https://gtfobins.github.io/
+
+# Windows vulnerable binaries and commands: LOLBAS https://github.com/LOLBAS-Project/LOLBAS
+
